@@ -1,5 +1,7 @@
 public class Test {
-
+	
+	
+	//Conditional operator
    public static void main(String args[]) {
 	   
       int a, b;
